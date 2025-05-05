@@ -27,6 +27,9 @@ Three deep learning architectures were trained and evaluated:
 | CNN       | 81.388%      |
 | U-Net     | 77.421%      |
 
+- Download Model(DenseNet)   
+https://drive.google.com/file/d/1W1DgdUb5klLksEt8A0YYW6pZ3hFFsvgX/view?usp=sharing
+
 ## Preprocessing Steps
 - Image resizing to 128x128 pixels
 - Grayscale conversion (if needed)
